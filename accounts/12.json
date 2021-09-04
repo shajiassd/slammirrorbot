@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mytorrentbotnew",
+  "private_key_id": "d5037450a3d6f49ad602b8e3469fa3fcf059b2ed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDsg6tuGaq1CIsE\nXYvrw56QAUyKJ9r9LNtJ/Qp/G3qBfFLRZHuipufHtCPNArVTcqqV2waqZRbVGnFs\nGlbUZjJ6eLY/cKJ8Nr+s2GTxmNwrZZ+0OqnCkQ7Sdai/kx5GdysDe8LFEL5yMFG8\nMuCHaKWDcWGOY7DE47Of30oGjrK1oSVZbFQecB7Uj10cDbKjU9BrqICybxhFwheh\nV7vALa+5iOP1R978Gg+mdNDbCkapxvstc0JiOCYA71MJXYiYIN0nacSd0W3BQkPi\n4y4my5TQEndXzvQAt6ynjW0fYcd1yWC7jtVII5gWtl2yUmOnAe2buL+a8dYnU0Zj\nFC1b7g35AgMBAAECggEAGBMFfL8kVQnN87dtbgXDErOtJa1toSJjHl6BRmOmxj4g\nRHPa0Vk1o8picARf7mLwOfF51deVGcM3qxopvzQ5XGXD4ER/546fl1GOAdkORSUS\nmuLzQ2ymQnYrQ3fPR7sqz8+VyV8dUYx5T2Oq3uGgIldkx5x+YmYukx4EgBMfnfTb\ne09tSwlbUErNjaPTx3CKyrQeiDlIzgoyd3Iarxf/ZeLQKvb9TmNXvinhpbxwmFTL\nr4//d/XUvy+r2xmucmGJu+L4j9WEg/8VHxlsSi1yHz54ZswTfZHdlFZqyuktnsi4\nTFxsNgxRHr4crSfCpMcZ4ThsPDYGJp9S/LcKkxA80QKBgQD2eJ4DL0IRtgdwOPIh\n5QxZ8Zu6QJPzlHACKXfZ+f2ilIQZvO3LjMgY3Jl6TrmTUqf8W4oWMF6sXIbdsFBB\nWtwas3MIpCdFd29c3tYCN+9ht9g+UgKFF13SlNncp8D6kzUWHK3auHm1uFsXALlD\nz34DO451FdjKnYtvm5w0zxskMQKBgQD1qIHjBwjGYdem8xEmRN/pSaMxwlAmZIpM\noMGkQoI21bKNqX3zoENEEAvN6VR4/60tTt1qACG9B4fwdhiaJJuiFMPMFg9Ihz2R\ncfybbNppyE0xqJvQgonIQkcl097GqPlIpV2NqBplRBztn3aVlQKhj0Y01RxogyW5\n1S6dNPl8SQKBgQCHWtA0IYTgIx5MpAldUeOJlaUXERXvY+prVYirXZ3L5lHxrI7P\nBT5yYNusjoVdgbwdW8wmyWOEtr+eCZDZg2NzCm+3JCcpACFZWEshJsTA3mzUNMeL\nfbyZxAMtKbdSJPu3bAKSJlM418i2hkA4HEAw2EkwxdGr2/9SSJvtaHuYUQKBgDuO\n5Ba3sN/v/snCKok9r4+uw7sfojD8tS8I1onNeiZzPvvreNblJwnMXiBJDqrbShAv\nC61UZNmghsu8xhAxCe6M3D+RpZju+PVXTmgcRwPYhSah+0zdKSx9LSS1rlA5zV5Y\ngUsD04pzrhPKUoTHgMDMrLfIZz/LdA0O62M/4bDJAoGBAIKFu6o7lU0ONcP4RtxD\nDIjDRe6xkBmdlFp3DxlfbCTw1EWUKSZ6iSru/TPJ2lKqa+bE9kgF6Xw1+lVTmaFO\nR/sL+tQS0DFmrEzHi7yzzmJm+obzDIogg4Yp3mOKf+XNsILeP7Zvt81xCQcAYCrl\nKih5OVgg95Kfv+fxiG7MdK5e\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-y22uz1m4smsf3vgeqa0zod45yq@mytorrentbotnew.iam.gserviceaccount.com",
+  "client_id": "115861893259007853758",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-y22uz1m4smsf3vgeqa0zod45yq%40mytorrentbotnew.iam.gserviceaccount.com"
+}
